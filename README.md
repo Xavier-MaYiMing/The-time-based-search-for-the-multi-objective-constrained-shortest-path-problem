@@ -27,7 +27,7 @@
 
 #### Example 1
 
-![MOCSP example](/Users/xavier/Desktop/Xavier Ma/个人算法主页/The ripple-spreading algorithm for the multi-objective constrained shortest path problem/MOCSP example.png)
+![](https://github.com/Xavier-MaYiMing/The-time-based-search-for-the-multi-objective-constrained-shortest-path-problem/blob/main/MOCSP%20example.png)
 
 ```python
 if __name__ == '__main__':
